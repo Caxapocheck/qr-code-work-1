@@ -1,0 +1,36 @@
+body {
+    background: hsl(212, 45%, 89%);
+}
+.box {
+    background: hsl(0, 0%, 100%);
+    border: 0px;
+    border-radius: 10px;
+    width: 330px;
+    height: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -250px;
+    margin-left: -165px;
+}
+.image {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    margin: 15px;
+}
+p {
+    font-weight: 500;
+    font-size: 15px;
+    font-family: 'Outfit';
+    margin: 7px 30px;
+    text-align: center;
+}
+.first {
+    font-weight: 700;
+    font-size: 23px;
+    color: hsl(218, 44%, 22%);
+}
+.second {
+    color: hsl(220, 15%, 55%);
+}
